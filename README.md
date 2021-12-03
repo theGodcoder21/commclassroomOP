@@ -5,4 +5,6 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 
 <!-- - learning git is very easy.
--thanks for giving us such a great content kunal bhaiya. -->
+-thanks for giving us such a great content kunal bhaiya. 
+learning from mistakes
+-->
